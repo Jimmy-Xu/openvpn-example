@@ -190,6 +190,10 @@ PING 172.16.0.21 (172.16.0.21) 56(84) bytes of data.
 
 ![](image/win-openvpn-connected.png)
 
+If the network is instable, please try to set proxy.  
+![](image/win-openvpn-use-proxy.png)
+
+
 ### test vpn in windows
 ```
 PS C:\Users\xjimmy> ping 172.16.0.22
