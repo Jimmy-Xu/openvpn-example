@@ -1,0 +1,94 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, ST=BJ, L=Beijing, O=Hypersh, OU=HyperHQ, CN=Hypersh CA/name=EasyRSA/emailAddress=jimmy@hyper.sh
+        Validity
+            Not Before: Dec 22 07:31:12 2016 GMT
+            Not After : Dec 20 07:31:12 2026 GMT
+        Subject: C=CN, ST=BJ, L=Beijing, O=Hypersh, OU=HyperHQ, CN=myvpn/name=EasyRSA/emailAddress=jimmy@hyper.sh
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:d2:88:d0:7f:04:1a:25:69:be:92:e0:d3:03:d4:
+                    7e:5d:44:62:5e:6b:7f:a9:6c:96:16:b8:db:c9:38:
+                    9a:81:99:ed:67:b2:96:fc:fa:01:af:ac:d5:a2:bf:
+                    ac:59:3c:e3:2c:6c:07:79:3e:c3:2b:8d:eb:42:25:
+                    e3:09:9d:30:99:a8:0b:c3:38:cb:41:be:c0:c5:58:
+                    d1:1c:28:da:77:06:bb:01:05:1c:ab:24:fc:ba:ce:
+                    9c:47:18:cb:02:39:72:15:f8:4c:b5:01:04:2e:64:
+                    6b:54:e6:b4:aa:7d:37:7c:ed:ed:f3:9e:09:ed:c0:
+                    fb:92:28:2b:f2:f3:c2:d0:19:95:07:31:ec:bf:3e:
+                    17:ee:ec:43:fd:49:0b:6e:88:c1:35:77:09:29:db:
+                    b7:ee:1f:25:be:e9:ef:7d:75:bd:e3:f6:20:c1:c2:
+                    b2:4b:55:30:d5:d8:be:81:cd:44:84:54:4a:2c:63:
+                    d5:8f:10:3a:ca:40:d6:71:d2:b2:6f:ed:db:7e:45:
+                    0a:0d:2e:08:ad:4d:00:65:9e:b1:8f:58:f1:45:ed:
+                    97:6e:de:54:cb:1d:f6:bf:23:c2:a2:7b:bb:3f:c0:
+                    50:a5:67:94:9c:0f:a1:b4:ee:07:db:6f:64:fc:17:
+                    b6:51:6d:f2:69:8d:27:89:63:14:7d:82:af:1c:74:
+                    75:8d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                52:9C:C9:F5:3F:36:51:29:D4:EF:C2:AB:FA:D5:7E:99:28:12:4A:7D
+            X509v3 Authority Key Identifier: 
+                keyid:65:0A:12:90:6B:84:5A:72:79:96:50:38:5A:58:FF:0B:9A:63:AC:A4
+                DirName:/C=CN/ST=BJ/L=Beijing/O=Hypersh/OU=HyperHQ/CN=Hypersh CA/name=EasyRSA/emailAddress=jimmy@hyper.sh
+                serial:C4:46:95:36:E0:44:F0:E2
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+         6e:d7:87:9a:9e:06:98:62:ea:de:06:b9:09:20:39:a4:9a:36:
+         7e:17:1f:95:da:e6:f2:e6:82:80:f8:f2:5b:eb:1d:d3:4f:86:
+         81:8a:ad:b3:7e:be:21:c1:21:a8:2a:5f:39:0c:50:aa:95:f6:
+         91:71:8b:c9:3a:8c:6e:d6:0a:f8:84:c8:ff:53:3d:d6:5b:0b:
+         ed:6f:01:d4:39:9d:34:34:64:ce:d2:6c:c5:44:25:1e:12:bd:
+         c1:85:5b:7c:14:fe:43:0e:33:55:4c:59:65:3c:b6:74:24:ee:
+         9c:2a:cc:e0:5e:87:13:cf:ea:e5:96:5d:fe:03:57:05:73:17:
+         b4:34:64:88:a0:42:c1:92:44:9d:2f:69:3f:87:43:2d:4b:10:
+         18:f7:90:28:02:0c:e2:b8:5a:c7:01:42:66:5f:67:a4:04:d4:
+         20:25:56:a3:b6:4d:d6:c8:b9:ff:42:16:70:fa:0b:82:6f:8a:
+         ea:eb:f6:6d:ec:21:a0:03:8c:ea:d0:6a:f7:34:e8:f3:69:b3:
+         ca:84:9c:30:56:30:31:e2:dd:71:e1:66:9a:83:25:29:bf:2c:
+         72:7c:8d:a0:a2:3a:34:f9:9e:79:94:87:4f:84:60:61:39:44:
+         42:34:e1:d1:df:98:4b:a8:13:76:40:36:eb:dc:b8:d7:82:37:
+         dd:57:9e:eb
+-----BEGIN CERTIFICATE-----
+MIIE8zCCA9ugAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBljELMAkGA1UEBhMCQ04x
+CzAJBgNVBAgTAkJKMRAwDgYDVQQHEwdCZWlqaW5nMRAwDgYDVQQKEwdIeXBlcnNo
+MRAwDgYDVQQLEwdIeXBlckhRMRMwEQYDVQQDEwpIeXBlcnNoIENBMRAwDgYDVQQp
+EwdFYXN5UlNBMR0wGwYJKoZIhvcNAQkBFg5qaW1teUBoeXBlci5zaDAeFw0xNjEy
+MjIwNzMxMTJaFw0yNjEyMjAwNzMxMTJaMIGRMQswCQYDVQQGEwJDTjELMAkGA1UE
+CBMCQkoxEDAOBgNVBAcTB0JlaWppbmcxEDAOBgNVBAoTB0h5cGVyc2gxEDAOBgNV
+BAsTB0h5cGVySFExDjAMBgNVBAMTBW15dnBuMRAwDgYDVQQpEwdFYXN5UlNBMR0w
+GwYJKoZIhvcNAQkBFg5qaW1teUBoeXBlci5zaDCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBANKI0H8EGiVpvpLg0wPUfl1EYl5rf6lslha428k4moGZ7Wey
+lvz6Aa+s1aK/rFk84yxsB3k+wyuN60Il4wmdMJmoC8M4y0G+wMVY0Rwo2ncGuwEF
+HKsk/LrOnEcYywI5chX4TLUBBC5ka1TmtKp9N3zt7fOeCe3A+5IoK/LzwtAZlQcx
+7L8+F+7sQ/1JC26IwTV3CSnbt+4fJb7p7311veP2IMHCsktVMNXYvoHNRIRUSixj
+1Y8QOspA1nHSsm/t235FCg0uCK1NAGWesY9Y8UXtl27eVMsd9r8jwqJ7uz/AUKVn
+lJwPobTuB9tvZPwXtlFt8mmNJ4ljFH2Crxx0dY0CAwEAAaOCAU0wggFJMAkGA1Ud
+EwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVyYXRlZCBDZXJ0aWZp
+Y2F0ZTAdBgNVHQ4EFgQUUpzJ9T82USnU78Kr+tV+mSgSSn0wgcsGA1UdIwSBwzCB
+wIAUZQoSkGuEWnJ5llA4Wlj/C5pjrKShgZykgZkwgZYxCzAJBgNVBAYTAkNOMQsw
+CQYDVQQIEwJCSjEQMA4GA1UEBxMHQmVpamluZzEQMA4GA1UEChMHSHlwZXJzaDEQ
+MA4GA1UECxMHSHlwZXJIUTETMBEGA1UEAxMKSHlwZXJzaCBDQTEQMA4GA1UEKRMH
+RWFzeVJTQTEdMBsGCSqGSIb3DQEJARYOamltbXlAaHlwZXIuc2iCCQDERpU24ETw
+4jATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQEL
+BQADggEBAG7Xh5qeBphi6t4GuQkgOaSaNn4XH5Xa5vLmgoD48lvrHdNPhoGKrbN+
+viHBIagqXzkMUKqV9pFxi8k6jG7WCviEyP9TPdZbC+1vAdQ5nTQ0ZM7SbMVEJR4S
+vcGFW3wU/kMOM1VMWWU8tnQk7pwqzOBehxPP6uWWXf4DVwVzF7Q0ZIigQsGSRJ0v
+aT+HQy1LEBj3kCgCDOK4WscBQmZfZ6QE1CAlVqO2TdbIuf9CFnD6C4Jviurr9m3s
+IaADjOrQavc06PNps8qEnDBWMDHi3XHhZpqDJSm/LHJ8jaCiOjT5nnmUh0+EYGE5
+REI04dHfmEuoE3ZANuvcuNeCN91Xnus=
+-----END CERTIFICATE-----
